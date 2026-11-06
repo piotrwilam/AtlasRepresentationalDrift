@@ -1,7 +1,11 @@
 # AtlasRepresentationalDrift — v1.0
 
-Paper 2's scripts: **representational drift in a code model — behaviour settles, which neurons
-carry it does not.**
+The scripts of **"Representational Drift in a Code Model: Behaviour Settles, Which Neurons
+Carry It Does Not"** (Wilam, 2026; arXiv:[id]).
+
+The instrument they use is described in **"Calibrated Concept Profiles: Making the Reading of
+a Model's Neurons a Measurement"** (Wilam, 2026; arXiv:[id]), whose code is
+`AtlasCalibratedConceptProfiles`.
 
 These are the scripts for one paper, not a reusable tool. They read the dataset and the
 artefacts, and produce the paper's four figures and its tables. If you want the instrument
@@ -37,11 +41,11 @@ python experiments/paper2_figures.py
 ```
 
 This repository names the versions it used: **tool v1.0, dataset v1.0 (`AtlasOpenCoder`,
-OpenCoder-1.5B).** It imports from the tool and from nothing in paper 1's own scripts.
+OpenCoder-1.5B).** It imports from the tool and from nothing in the method paper's own scripts.
 
 ## The scripts
 
-50 scripts in `experiments/`. They read the dataset and write the artefacts paper 2's
+50 scripts in `experiments/`. They read the dataset and write the artefacts this paper's
 manifest names; `REBUILD.md` in the dataset says which run from the release alone.
 
 | | |
