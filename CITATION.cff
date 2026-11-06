@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this code, cite the paper it belongs to."
+title: "AtlasRepresentationalDrift: representational drift in a code model"
+abstract: >-
+  The analysis scripts behind
+  "Representational Drift in a Code Model: Behaviour Settles, Which Neurons
+  Carry It Does Not". Reads the dataset AtlasOpenCoder.
+type: software
+license: Apache-2.0
+authors:
+  - family-names: Wilam
+    given-names: Piotr
+    affiliation: University College London
+    email: piotrwilam@gmail.com
+version: "1.0"
+date-released: "2026-11-06"
+repository-code: "https://github.com/piotrwilam/AtlasRepresentationalDrift"
+keywords:
+  - interpretability
+  - mechanistic interpretability
+  - language models
+  - measurement
+preferred-citation:
+  type: article
+  title: "Representational Drift in a Code Model: Behaviour Settles, Which Neurons Carry It Does Not"
+  authors:
+    - family-names: Wilam
+      given-names: Piotr
+      affiliation: University College London
+  year: 2026
