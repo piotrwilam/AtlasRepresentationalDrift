@@ -1,10 +1,10 @@
 # AtlasRepresentationalDrift — v1.0
 
 The scripts of **"Representational Drift in a Code Model: Behaviour Settles, Which Neurons
-Carry It Does Not"** (Wilam, 2026; arXiv:[id]).
+Carry It Does Not"** (Wilam, 2026).
 
 The instrument they use is described in **"Calibrated Concept Profiles: Making the Reading of
-a Model's Neurons a Measurement"** (Wilam, 2026; arXiv:[id]), whose code is
+a Model's Neurons a Measurement"** (Wilam, 2026), whose code is
 `AtlasCalibratedConceptProfiles`.
 
 These are the scripts for one paper, not a reusable tool. They read the dataset and the
